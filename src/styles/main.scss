@@ -4,12 +4,12 @@ html, body {
   height: 100%;
 }
 
-/* body{
+body{
 flex: 1;  
 display: flex;
 flex-direction: column;
 background-color: lightgrey;
-} */
+}
 
 // body{
 //   background-color: lightgray;
@@ -60,10 +60,6 @@ nav {
   flex-direction: column;
   /* text-align: center; */
 }
-/* 
-#myName{
-  background-color: dodgerblue;
-} */
 
 .bio{
   margin: 25px;
@@ -108,10 +104,14 @@ img{
 }
 
 .top{
-  background-color:lightgrey;
+  background-color:royalblue;
 }
 
 #contactLinks{
   display:flex;
-  justify-content:
+}
+
+#contact{
+  display: flex;  
+  justify-content: center;
 }
