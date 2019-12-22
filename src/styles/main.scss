@@ -11,18 +11,17 @@ flex-direction: column;
 background-color: lightgrey;
 } */
 
-body{
-  background-color: lightgray;
-}
+// body{
+//   background-color: lightgray;
+// }
 
 .content {
   flex: 1 0 auto;
 } 
 
-footer{
+page-footer{
 flex-shrink: 0;
 text-align: center;
-color:black;
 width: 100%;
 } 
 
@@ -32,7 +31,7 @@ width: 100%;
 
 .card{
   margin:25px;
-  background-color: lightgray;
+  background-color: darkgray;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.6);
   transition: 0.4s;
   background: #fff;
@@ -96,13 +95,18 @@ nav {
 
 #technologiesPage{
   text-align: center;
+  // display: flex;
+  // flex-wrap: wrap;
 }
-
-// Nav bar but not all of it 
-// .container{
-//   background-color: lightgray;
-// }
 
 img{
   height: 300px;
+}
+
+.top{
+  background-color: slategrey;
+}
+
+.title{
+  text-align: center;
 }
