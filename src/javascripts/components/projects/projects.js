@@ -1,19 +1,13 @@
 import util from '../../helpers/utils';
 import projectCard from '../projectCard/projectCard';
+import tech1 from '../tech1/tech1';
 
 const bio = document.getElementById('bioPage');
 const tech = document.getElementById('technologiesPage');
 const pro = document.getElementById('projectsPage');
 
-// const printBio = () => {
-//   let bioString = '';
-//   bioString += '<p> Test </p>';
-//   util.printToDom('bioPage', bioString);
-// };
-// printBio();
-
 const printTech = () => {
-  const techString = '<p> Tech Icons</p>';
+  const techString = tech1.techPrint();
   util.printToDom('technologiesPage', techString);
 };
 
