@@ -1,11 +1,11 @@
 {
   "project1": {
-    "title": "Product Cards",
-    "screenshot": "https://reactnativestarter-hosting-mobilehub-132039435.s3.amazonaws.com/ProductCards.png",
-    "description": "This project is a simple example of a static website containing product cards hard coded to display on the page using Flexbox",
-    "technologiesUsed": "HTML, CSS, Flexbox, Version Control with Github",
+    "title": "QB₁",
+    "screenshot": "https://reactnativestarter-hosting-mobilehub-132039435.s3.amazonaws.com/QB1.png",
+    "description": "QB₁ is a football team roster app",
+    "technologiesUsed": "React, JavaScript, Boostrap 4, Webpack, Firebase",
     "avaiable": true,
-    "url": "https://rarceneaux.github.io/product-cards/",
+    "url": "https://sports-roster-d0597.firebaseapp.com/",
     "githubUrl": "https://github.com/rarceneaux/product-cards",
     "id": "project1"
   },
@@ -97,6 +97,16 @@
     "avaiable": true,
     "url": "https://nutshell-star-destroyer.firebaseapp.com/",
     "githubUrl": "https://github.com/nss-evening-cohort-10/nutshell-star-destroyer",
-    "id": "project"
+    "id": "project10"
+  },
+  "project11": {
+  "title": "Product Cards",
+  "screenshot": "https://reactnativestarter-hosting-mobilehub-132039435.s3.amazonaws.com/ProductCards.png",
+  "description": "This project is a simple example of a static website containing product cards hard coded to display on the page using Flexbox",
+  "technologiesUsed": "HTML, CSS, Flexbox, Version Control with Github",
+  "avaiable": true,
+  "url": "https://rarceneaux.github.io/product-cards/",
+  "githubUrl": "https://rarceneaux.github.io/product-cards/",
+  "id": "project11"
 }
 }

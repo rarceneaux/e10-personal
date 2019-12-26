@@ -13,6 +13,7 @@ const createProjectCards = () => {
         <div class="card-body text-center">
           <h5 class="card-title">${project.title}</h5>
           <p class="card-text">${project.description}</p>
+          <p class="card-text">Tech Used: ${project.technologiesUsed}</p>
           <a class="card-text" href="${project.url}">${project.url}</a>
           <a class="card-text" href="${project.githubUrl}">${project.githubUrl}</a>
         </div>
