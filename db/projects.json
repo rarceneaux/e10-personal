@@ -7,7 +7,7 @@
     "avaiable": true,
     "url": "https://sports-roster-d0597.firebaseapp.com/",
     "githubUrl": "https://github.com/rarceneaux/product-cards",
-    "id": "project1"
+    "id": "project11"
   },
   "project2": {
     "title": "Pet Adoption",
@@ -107,6 +107,6 @@
   "avaiable": true,
   "url": "https://rarceneaux.github.io/product-cards/",
   "githubUrl": "https://rarceneaux.github.io/product-cards/",
-  "id": "project11"
+  "id": "project1"
 }
 }
