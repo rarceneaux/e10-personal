@@ -7,7 +7,7 @@
     "avaiable": true,
     "url": "https://sports-roster-d0597.firebaseapp.com/",
     "githubUrl": "https://github.com/rarceneaux/product-cards",
-    "id": "project11"
+    "id": "project1"
   },
   "project2": {
     "title": "Pet Adoption",
@@ -62,7 +62,7 @@
   "project7": {
     "title": "Solar System",
     "screenshot": "https://reactnativestarter-hosting-mobilehub-132039435.s3.amazonaws.com/Solar+System.png",
-    "description": "This application is small educational platform",
+    "description": "This application is small educational tool designed to help young kids learn about the Solar System ",
     "technologiesUsed": "HTML, CSS, JavaScript, Jquery, Boostrap 4, Webpack",
     "avaiable": true,
     "url": "https://solar-system-fa95a.firebaseapp.com",
@@ -82,7 +82,7 @@
   "project9": {
     "title": "PanAM",
     "screenshot": "https://reactnativestarter-hosting-mobilehub-132039435.s3.amazonaws.com/PanAm.png",
-    "description": "Airport Firm Centralized Operational System",
+    "description": "Team Project- Airport Firm Centralized Operational System",
     "technologiesUsed": "HTML, CSS, JavaScript, Jquery, Boostrap 4, Webpack, Firebase",
     "avaiable": true,
     "url": "https://nutshell-panam.firebaseapp.com/",
@@ -92,7 +92,7 @@
   "project10": {
     "title": "Star Destroyer",
     "screenshot": "https://reactnativestarter-hosting-mobilehub-132039435.s3.amazonaws.com/Star-Destroyer.png",
-    "description": "The Saga ends here Luke Skywalker Public Enemy #1",
+    "description": "Team Project- The Saga ends here Luke Skywalker Public Enemy #1",
     "technologiesUsed": "HTML, CSS, JavaScript, Jquery, Boostrap 4, Webpack, Firebase",
     "avaiable": true,
     "url": "https://nutshell-star-destroyer.firebaseapp.com/",
@@ -107,6 +107,6 @@
   "avaiable": true,
   "url": "https://rarceneaux.github.io/product-cards/",
   "githubUrl": "https://rarceneaux.github.io/product-cards/",
-  "id": "project1"
+  "id": "project11"
 }
 }
