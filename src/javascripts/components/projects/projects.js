@@ -25,6 +25,10 @@ const linkEvents = (e) => {
   } else if (linkClicked === 'navToProjects') {
     pro.classList.remove('hidden');
     projectCard.createProjectCards();
+  } else if (linkClicked === 'navToResume'){
+    bio.classList.add('hidden');
+    tech.classList.add('hidden');
+    pro.classList.add('hidden');
   }
 };
 
