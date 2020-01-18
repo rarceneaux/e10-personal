@@ -6,6 +6,7 @@
     "technologiesUsed": "React, JavaScript, Boostrap 4, Webpack, Firebase",
     "avaiable": true,
     "url": "https://sports-roster-d0597.firebaseapp.com/",
+    "gitHubrepo": "https://github.com/rarceneaux/sports-roster",
     "id": "project1"
   },
   "project2": {
@@ -15,6 +16,7 @@
     "technologiesUsed": "HTML, CSS, JavaScript, Jquery, Boostrap 4, Webpack",
     "avaiable": true,
     "url": "https://solar-system-fa95a.firebaseapp.com",
+    "gitHubrepo": "https://github.com/rarceneaux/solar-system",
     "id": "project2"
   },
   "project3": {
@@ -24,6 +26,7 @@
     "technologiesUsed": "HTML, CSS, JavaScript, Jquery, Boostrap 4, Webpack, Firebase",
     "avaiable": true,
     "url": "https://nutshell-panam.firebaseapp.com/",
+    "gitHubrepo": "https://github.com/nss-evening-cohort-10/nutshell-panam-airlines",
     "id": "project3"
   },
   "project4": {
@@ -33,6 +36,7 @@
     "technologiesUsed": "HTML, CSS, JavaScript, Jquery, Boostrap 4, Webpack, Firebase",
     "avaiable": true,
     "url": "https://nutshell-star-destroyer.firebaseapp.com/",
+    "gitHubrepo": "https://github.com/nss-evening-cohort-10/nutshell-star-destroyer",
     "id": "project4"
   }
 }
