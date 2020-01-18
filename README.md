@@ -6,6 +6,6 @@
 ## Screenshot
 ![](https://raw.githubusercontent.com/rarceneaux/e10-personal/master/src/assets/images/Bio.png)
 ![](https://raw.githubusercontent.com/rarceneaux/e10-personal/master/src/assets/images/Tech.png)
-![](src/assets/images/ProjectsNew.png)
+![](https://raw.githubusercontent.com/rarceneaux/e10-personal/master/src/assets/images/ProjectsNew.png)
 ## How to Run:
   * www.raymondarceneaux.com
