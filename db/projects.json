@@ -5,7 +5,7 @@
     "description": "My-Dash is a single page CRUD web application allowing users to create a digital legacy journal",
     "technologiesUsed": "React, JavaScript, Boostrap 4, Webpack, Firebase, AWS S3",
     "avaiable": true,
-    "url": "my-dash.life",
+    "url": "https://my-dash-93e26.firebaseapp.com/",
     "gitHubrepo": "https://github.com/rarceneaux/my-dash-capstone",
     "id": "project1"
   },
