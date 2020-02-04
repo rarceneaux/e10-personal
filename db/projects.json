@@ -1,8 +1,8 @@
 {
   "project1": {
-    "title": "My-Dash",
-    "screenshot": "https://raw.githubusercontent.com/rarceneaux/my-dash-capstone/master/src/assets/Login.png",
-    "description": "My-Dash is a single page CRUD web application allowing users to create a digital legacy journal",
+    "title": "My-Dashbook",
+    "screenshot": "https://reactnativestarter-hosting-mobilehub-132039435.s3.amazonaws.com/Profile.png",
+    "description": "My-Dashbook is a single page CRUD web application allowing users to create a digital legacy journal",
     "technologiesUsed": "React, Facebook Developer, JavaScript, Bootstrap 4, Webpack, Firebase, AWS S3",
     "avaiable": true,
     "url": "https://my-dash-93e26.firebaseapp.com/",
