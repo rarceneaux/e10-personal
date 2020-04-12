@@ -51,10 +51,11 @@ nav {
 }
 
 #navLinks a {
-  color:#6F6F6F;
+  color:black;
   justify-content: space-between;
   text-align: center;
   margin: 25px;
+  font-weight: bolder;
 }
 
 .rlinks{
@@ -112,7 +113,6 @@ img{
 
 .top{
   background-color:lightgrey;
-  color:#6F6F6F;
   border-bottom: solid;
   // border-top: solid;
 }
