@@ -9,11 +9,12 @@ flex: 1;
 display: flex;
 flex-direction: column;
 background-color: lightgrey;
-background-image: url(https://reactnativestarter-hosting-mobilehub-132039435.s3.amazonaws.com/picA.png);
-background-repeat: no-repeat;
+// background-image: url(https://reactnativestarter-hosting-mobilehub-132039435.s3.amazonaws.com/picA.png);
+// background-repeat: no-repeat;
 background-size: 100%;
 background-attachment: fixed;
 }
+
 
 
 .content {
@@ -32,7 +33,7 @@ width: 100%;
 
 .card{
   margin:25px;
-  background-color: darkgray;
+  background-color: #6F6F6F;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.6);
   transition: 0.4s;
   background: #fff;
@@ -50,7 +51,7 @@ nav {
 }
 
 #navLinks a {
-  color:black;
+  color:#6F6F6F;
   justify-content: space-between;
   text-align: center;
   margin: 25px;
@@ -87,9 +88,9 @@ nav {
 
 #bioPage{
   margin: 25px;
-  background-color:lightgray;
-  opacity: 75%;
-  border-radius: 25px;
+  background-color:#6F6F6F;
+  // opacity: 75%;
+  border-radius: 5px;
   color:black;
   // border:thick solid;
   font-weight: bolder;
@@ -110,9 +111,10 @@ img{
 }
 
 .top{
-  background-color:#ccc;
+  background-color:lightgrey;
+  color:#6F6F6F;
   border-bottom: solid;
-  border-top: solid;
+  // border-top: solid;
 }
 
 #contactLinks{
@@ -138,7 +140,6 @@ margin: 10px;
 }
 
 #com{
-  color:dodgerblue;
   font-weight: bolder;
 }
 
@@ -149,3 +150,9 @@ margin: 10px;
 #social{
   text-align:center;
 }
+
+.b {
+    color: black !important;
+}
+
+ 

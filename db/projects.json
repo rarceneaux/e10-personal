@@ -1,7 +1,7 @@
 {
   "project1": {
     "title": "My-Dashbook",
-    "screenshot": "https://reactnativestarter-hosting-mobilehub-132039435.s3.amazonaws.com/Profile.png",
+    "screenshot": "https://reactnativestarter-hosting-mobilehub-132039435.s3.amazonaws.com/Screen+Shot+2020-02-07+at+9.41.25+PM.png",
     "description": "My-Dashbook is a single page CRUD web application allowing users to create a digital legacy journal",
     "technologiesUsed": "React, Facebook Developer, JavaScript, Bootstrap 4, Webpack, Firebase, AWS S3",
     "avaiable": true,
@@ -28,15 +28,5 @@
     "url": "https://nutshell-panam.firebaseapp.com/",
     "gitHubrepo": "https://github.com/nss-evening-cohort-10/nutshell-panam-airlines",
     "id": "project3"
-  },
-  "project4": {
-    "title": "Star Destroyer 🚀",
-    "screenshot": "https://reactnativestarter-hosting-mobilehub-132039435.s3.amazonaws.com/Star-Destroyer.png",
-    "description": "Team Project- The Saga ends here Luke Skywalker Public Enemy #1",
-    "technologiesUsed": "HTML, CSS, JavaScript, Jquery, Bootstrap 4, Webpack, Firebase",
-    "avaiable": true,
-    "url": "https://nutshell-star-destroyer.firebaseapp.com/",
-    "gitHubrepo": "https://github.com/nss-evening-cohort-10/nutshell-star-destroyer",
-    "id": "project4"
   }
 }
