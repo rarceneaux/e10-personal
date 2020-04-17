@@ -1,6 +1,7 @@
 {
   "projects": {
     "default": "personal-site-fb150",
-    "raymondarceneaux": "personal-site-fb150"
+    "raymondarceneaux": "personal-site-fb150",
+    "deploy": "raymondarceneaux-dev"
   }
 }
