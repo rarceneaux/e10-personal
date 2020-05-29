@@ -50,5 +50,9 @@
   "tech13": {
     "imgUrl": "data:image/svg+xml;base64,PHN2ZyBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAxNzc2IDI1MDAiIHZpZXdCb3g9IjAgMCAxNzc2IDI1MDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0ibTE3NzYgNDg5LjloLTE3NzZsMTY2LjUgMTgwNS41IDcyMS40IDIwNC42IDcyMS40LTIwNC42eiIgZmlsbD0iI2U2YTMyOSIvPjxwYXRoIGQ9Im04ODcuOSA2Mzd2MTcxMGw1ODQuNS0xNjUuNiAxNDIuMi0xNTQ0LjR6IiBmaWxsPSIjZjFiZjIyIi8+PHBhdGggZD0ibTEzNTIuOSA4NTguNWgtODk4LjdsLTYyLjYgNjc2IDEuMy00LjJoNzYzLjVsLTI0LjkgMjg2LTI0My42IDcwLjEtMjQ3LjItNzEuMi0xNC44LTE3My4xaC0yMjQuNGwzMiAzNDUuOSA0NTQuNCAxMjkgNDU0LjYtMTI5IDYyLjYtNjc4LjloLTgxMC4zbDEwLjQtMjI2LjJoNTYyLjJsOC40IDEyOS42aDIyNi40eiIgZmlsbD0iI2ZmZiIvPjxwYXRoIGQ9Im04ODguMSA4NTguNWgtNDMzLjlsLTYyLjYgNjc2IDEuMy00LjJoNDk1LjJ2LTIyMC41aC0yNjEuN2wxMC40LTIyNi4yaDI1MS4zem0tMjYxLjcgNzgzLjZoLTIyNC45bDMyIDM0NS43IDQ1NC40IDEyOC44di0yMzBsLTI0Ny4yLTcxLjR6IiBmaWxsPSIjZWJlYmViIi8+PHBhdGggZD0ibTcxNS4yIDIyMy42aC0xNTguMXYxMTMuNWgyNzEuMnYtMzM3LjFoLTExMy4xem01MDMuNi0yMjEuOGgtMjc1LjZ2MTE4YzM2LjggMzYuOCA1NiA1NC41IDExMC4yIDEwNy44aC0xMTAuMnYxMDcuNmgyNzUuNnYtMTA3LjRsLTExMC4yLTEwNy44aDExMC4yeiIgZmlsbD0iIzIzMWYyMCIvPjwvc3ZnPg==",
     "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+  },
+  "tech14": {
+    "imgUrl": "https://firebasestorage.googleapis.com/v0/b/raymondarceneaux-dev.appspot.com/o/hiclipart.com.png?alt=media&token=c2d5359c-44fb-41cb-883f-e2d120d97707",
+    "url": "https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/"
   }
 }

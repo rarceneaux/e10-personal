@@ -5,7 +5,7 @@ import './tech1.scss';
 
 const techPrint = () => {
   let domString = '<div class="container">';
-  domString = '<div class="row justify-content-around align-items-center">';
+  domString = '<h1 id="TechStack">Tech Stack<h1><div class="row justify-content-around align-items-center">';
   techData.getTech()
     .then((tech) => {
       tech.forEach((tec) => {
