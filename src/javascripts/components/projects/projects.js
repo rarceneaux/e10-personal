@@ -5,6 +5,7 @@ import tech1 from '../tech1/tech1';
 const bio = document.getElementById('bioPage');
 const tech = document.getElementById('technologiesPage');
 const pro = document.getElementById('projectsPage');
+const nash = document.getElementById('skyline');
 
 const printTech = () => {
   const techString = tech1.techPrint();
@@ -16,6 +17,7 @@ const linkEvents = (e) => {
   bio.classList.add('hidden');
   tech.classList.add('hidden');
   pro.classList.add('hidden');
+  nash.classList.remove('hidden');
   const linkClicked = e.target.id;
   if (linkClicked === 'navToBio') {
     bio.classList.remove('hidden');
@@ -25,6 +27,7 @@ const linkEvents = (e) => {
   } else if (linkClicked === 'navToProjects') {
     pro.classList.remove('hidden');
     projectCard.createProjectCards();
+    nash.classList.add('hidden');
   }
 };
 

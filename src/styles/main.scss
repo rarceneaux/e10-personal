@@ -1,158 +1,155 @@
 @import "~bootstrap/scss/bootstrap";
 
-html, body {
+html,
+body {
   height: 100%;
 }
 
-body{
-flex: 1;  
-display: flex;
-flex-direction: column;
-background-color: lightgrey;
-// background-image: url(https://reactnativestarter-hosting-mobilehub-132039435.s3.amazonaws.com/picA.png);
-// background-repeat: no-repeat;
-background-size: 100%;
-background-attachment: fixed;
+body {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  // background-color: #edf0f3;
+  background-size: 100%;
 }
-
-
 
 .content {
   flex: 1 0 auto;
-} 
-
-page-footer{
-flex-shrink: 0;
-text-align: center;
-width: 100%;
-} 
-
-.fab{
-  margin:10px;
+  // margin:10px;
 }
 
-.card{
-  margin:25px;
-  background-color: #6F6F6F;
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.6);
+page-footer {
+  flex-shrink: 0;
+  text-align: center;
+  width: 100%;
+}
+
+.fab {
+  margin: 10px;
+}
+
+.card {
+  margin: 25px;
+  background-color: #6f6f6f;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.6);
   transition: 0.4s;
   background: #fff;
 }
 
-.card-title{
-  font-weight: bold
+.card-title {
+  font-weight: bold;
 }
-  
 
 nav {
   display: flex;
-  justify-content: center;
-  
-}
-
-#navLinks a {
-  color:black;
   justify-content: space-between;
-  text-align: center;
-  margin: 25px;
-  font-weight: bolder;
+  background-color: #0e497b;
+  // align-items: center;
 }
 
-.rlinks{
+.link-container a {
+  margin: 1em;
+}
+
+//SOCIAL MEDIA ICONS
+.rlinks {
   display: flex;
   flex-direction: column;
-  /* text-align: center; */
+  color: #ffffff;
 }
 
-.bio{
+.bio {
   margin: 25px;
 }
 
-#projectsPage{
-  /* display: flex; */
+#projectsPage {
   flex-direction: row;
   justify-content: center;
   flex-wrap: wrap;
 }
 
-.flex-fix{
+.flex-fix {
   display: flex;
 }
 
-.hidden{
+.hidden {
   display: none;
 }
 
-/* #top{
-    background-color: black;
-} */
-
-#bioPage{
+#bioPage {
   margin: 25px;
-  background-color:#6F6F6F;
-  // opacity: 75%;
+  background-color: #edf0f3;
   border-radius: 5px;
-  color:black;
-  // border:thick solid;
-  font-weight: bolder;
+  color: #4a4a4a;
+  font-family: "Guardian Sans","Helvetica Neue",Helvetica,sans-serif;
+  font-size: 16px;
 }
 
-#technologiesPage{
+#technologiesPage {
   text-align: center;
-  // display: flex;
-  // flex-wrap: wrap;
 }
 
-img{
+img {
   height: 300px;
 }
 
-.title{
+.title {
   text-align: center;
 }
 
-.top{
-  background-color:lightgrey;
-  border-bottom: solid;
-  // border-top: solid;
+#contactLinks {
+  display: flex;
 }
 
-#contactLinks{
-  display:flex;
-}
-
-#contact{
-  display: flex;  
+#contact {
+  display: flex;
   justify-content: center;
-  
 }
 
-#me{
+#me {
   border-radius: 25px;
 }
 
-#email{
+#email {
   text-align: center;
 }
 
 a {
-margin: 10px;
+  margin: 10px;
+  color:white,
 }
 
-#com{
+.l:hover 
+{ color: white; 
+}
+
+#com {
   font-weight: bolder;
 }
 
-#about{
-  text-align:center;
+#about {
+  text-align: center;
 }
 
-#social{
-  text-align:center;
+#social {
+  text-align: center;
 }
 
-.b {
-    color: black !important;
+
+.myName{
+  margin: 10px;
+  color: white;
 }
 
- 
+#navLinks{
+  color:white;
+  margin: 10px;
+}
+
+video {
+  object-fit: fill;
+}
+
+#mypic{
+  border-radius: 50%;
+}
