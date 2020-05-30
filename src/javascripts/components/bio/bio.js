@@ -4,7 +4,7 @@ import './bio.scss';
 
 const bioString = () => {
   let domString = '<h4>#NASHVILLESTRONG</h4>';
-  domString += '<img id="mypic" align ="right"  src="https://firebasestorage.googleapis.com/v0/b/raymondarceneaux-dev.appspot.com/o/IMG_1178.jpg?alt=media&token=47b8d0ac-cca0-4c09-bad6-97ab975a9c4f" alt="picture">';
+  domString += '<img id="mypic" align ="right"  src="https://firebasestorage.googleapis.com/v0/b/hustle-8e319.appspot.com/o/IMG_1178.jpg?alt=media&token=e9457916-c24e-4a87-8e9d-ee9e1e494911" alt="picture">';
   domString += '<p> I am a native of Nashville and father of 2 sons. I have witnessed my hometown change exponentialy over the last decade since the 2008 financial crisis and recession.</p>';
   domString += '<p> Today, Nashville, the rest of the country, and planet faces yet another crisis in 2020, COVID-19. Since early March, Nashville faced deadly tornados and a health pandemic which both claimed lives. </p>';
   domString += '<p> I include these matters in my website to give remembrance to the vitcims and the families who have been impacted by both of these occurrences. I also salute all those on the frontlines of this COVID-19 nightmare as they care for others while being in harms way.</p>';
