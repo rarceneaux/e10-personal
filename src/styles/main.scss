@@ -18,12 +18,6 @@ body {
   // margin:10px;
 }
 
-page-footer {
-  flex-shrink: 0;
-  text-align: center;
-  width: 100%;
-}
-
 .fab {
   margin: 10px;
 }
@@ -110,9 +104,6 @@ img {
   border-radius: 25px;
 }
 
-#email {
-  text-align: center;
-}
 
 a {
   margin: 10px;
@@ -137,7 +128,7 @@ a {
 
 
 .myName{
-  margin: 10px;
+  margin: 15px;
   color: white;
 }
 
@@ -152,4 +143,8 @@ video {
 
 #mypic{
   border-radius: 50%;
+}
+
+.social{
+  color: white;
 }
