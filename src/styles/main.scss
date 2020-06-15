@@ -151,10 +151,15 @@ video {
 
 #skyline{
   width: 1440px;
-  height: 450px;
-
+  height: 500px;
 }
 
 h3{
   text-align: center;
+}
+
+
+#city{
+  height: 450px;
+  width: max-content;
 }
