@@ -11,12 +11,15 @@ body {
   flex-direction: column;
   // background-color: #edf0f3;
   background-size: 100%;
+  background-image: url('https://firebasestorage.googleapis.com/v0/b/personal-site-fb150.appspot.com/o/Screen%20Shot%202020-06-14%20at%2010.53.34%20PM.png?alt=media&token=2320b5f0-7de1-4a2b-8579-7f8b4db2f83e');
+  background-repeat: repeat;
+  
 }
 
-.content {
-  flex: 1 0 auto;
-  // margin:10px;
-}
+// .content {
+//   flex: 1 0 auto;
+//   // margin:10px;
+// }
 
 .fab {
   margin: 10px;
@@ -151,8 +154,8 @@ video {
   }
 
 #skyline{
-  width: 1440px;
-  height: 500px;
+  display: flex;
+  align-content: center;
 }
 
 h3{
@@ -161,7 +164,5 @@ h3{
 
 
 #city{
-  height: 450px;
-  width: max-content;
+  
 }
-

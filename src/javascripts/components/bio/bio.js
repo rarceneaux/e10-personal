@@ -4,7 +4,7 @@ import './bio.scss';
 
 const bioString = () => {
   let domString = '<h4>"The problem of the twentieth century is the problem of the color line." (W.E.B. Du Bois 1903)</h4>';
-  domString += '<img id="mypic" align ="right"  src="https://firebasestorage.googleapis.com/v0/b/hustle-8e319.appspot.com/o/IMG_1178.jpg?alt=media&token=e9457916-c24e-4a87-8e9d-ee9e1e494911" alt="picture">';
+  domString += '<img id="mypic" align ="right"  src="https://media-exp1.licdn.com/dms/image/C4E03AQGq0a9NeWZhhw/profile-displayphoto-shrink_400_400/0?e=1599091200&v=beta&t=lEOcTdXD_VlsMFsO7TcnDRnU4OXsBRpZlQujeOxfEFc" alt="picture">';
   domString += '<p> I am a native of Nashville and father of 2 sons. I have witnessed my hometown change exponentially over the last decade since the 2008 financial crisis and recession.</p>';
   domString += '<p> Today, Nashville, the rest of the country, and planet face yet another crisis in 2020, on top of COVID-19 social injustices towards black people have made mainstream media. The deaths of Breonna Taylor, Ahmaud Arbery, and George Floyd have energized a new generation who have peacefully stepped up to say:<h3> 🇺🇸America we have a problem</h3></p>';
   domString += '<p> I dedicate my website to give remembrance to the victims and the families who have been impacted by these events. I salute everyone on the frontlines of the COVID-19 epidemic. More importantly, I take a knee in appreciation to those who are not black who have spoken publically and said it loud: <h3> BLACK LIVES MATTER</h3></p>';
