@@ -11,9 +11,8 @@ body {
   flex-direction: column;
   // background-color: #edf0f3;
   background-size: 100%;
-  background-image: url('https://firebasestorage.googleapis.com/v0/b/personal-site-fb150.appspot.com/o/Screen%20Shot%202020-06-14%20at%2010.53.34%20PM.png?alt=media&token=2320b5f0-7de1-4a2b-8579-7f8b4db2f83e');
+  background-image: url("https://firebasestorage.googleapis.com/v0/b/personal-site-fb150.appspot.com/o/Screen%20Shot%202020-06-14%20at%2010.53.34%20PM.png?alt=media&token=2320b5f0-7de1-4a2b-8579-7f8b4db2f83e");
   background-repeat: repeat;
-  
 }
 
 // .content {
@@ -31,6 +30,7 @@ body {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.6);
   transition: 0.4s;
   background: #fff;
+  width: 350px;
 }
 
 .card-title {
@@ -78,7 +78,7 @@ nav {
   background-color: #edf0f3;
   border-radius: 5px;
   color: #4a4a4a;
-  font-family: "Guardian Sans","Helvetica Neue",Helvetica,sans-serif;
+  font-family: "Guardian Sans", "Helvetica Neue", Helvetica, sans-serif;
   font-size: 16px;
 }
 
@@ -107,14 +107,13 @@ img {
   border-radius: 25px;
 }
 
-
 a {
   margin: 10px;
-  color:white,
+  color: white;
 }
 
-.l:hover 
-{ color: white; 
+.l:hover {
+  color: white;
 }
 
 #com {
@@ -130,14 +129,13 @@ a {
   background-color: darkgray;
 }
 
-
-.myName{
+.myName {
   margin: 15px;
   color: white;
 }
 
-#navLinks{
-  color:white;
+#navLinks {
+  color: white;
   margin: 10px;
 }
 
@@ -145,24 +143,22 @@ video {
   object-fit: fill;
 }
 
-#mypic{
+#mypic {
   border-radius: 50%;
 }
 
-.social{
+.social {
   color: #4a4a4a;
-  }
+}
 
-#skyline{
+#skyline {
   display: flex;
   align-content: center;
 }
 
-h3{
+h3 {
   text-align: center;
 }
 
-
-#city{
-  
-}
+// #city {
+// }
