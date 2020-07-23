@@ -1,32 +1,32 @@
 {
   "project1": {
-    "title": "My-Dashbook",
-    "screenshot": "https://reactnativestarter-hosting-mobilehub-132039435.s3.amazonaws.com/Screen+Shot+2020-02-07+at+9.41.25+PM.png",
-    "description": "My-Dashbook is a single page CRUD web application allowing users to create a digital legacy journal",
-    "technologiesUsed": "React, Facebook Developer, JavaScript, Bootstrap 4, Webpack, Firebase, AWS S3",
+    "title": "PIGUE 🏈",
+    "screenshot": "https://reactnativestarter-hosting-mobilehub-132039435.s3.amazonaws.com/Personal-Pigue.png",
+    "description": "PIGUE is a single page React App created to manage and track football plays and players.",
+    "technologiesUsed": "React,.NET Core, Dapper,C#, MS Sql Server, JavaScript, Webpack, AWS S3, Firebase",
     "avaiable": true,
-    "url": "https://my-dash-93e26.firebaseapp.com/",
-    "gitHubrepo": "https://github.com/rarceneaux/my-dash-capstone",
+    "url": "https://www.coachpigue.com",
+    "gitHubrepo": "https://github.com/rarceneaux/PIGUE",
     "id": "project1"
   },
   "project2": {
+    "title": "My-Dashbook",
+    "screenshot": "https://reactnativestarter-hosting-mobilehub-132039435.s3.amazonaws.com/Screen+Shot+2020-02-07+at+9.41.25+PM.png",
+    "description": "My-Dashbook is a single page React App allowing users to create a digital legacy journal and share on Facebook.",
+    "technologiesUsed": "React, Facebook Developer, JavaScript,Webpack, Firebase, AWS S3",
+    "avaiable": true,
+    "url": "https://my-dash-93e26.firebaseapp.com/",
+    "gitHubrepo": "https://github.com/rarceneaux/my-dash-capstone",
+    "id": "project2"
+  },
+  "project3": {
     "title": "QB₁ 🏈",
     "screenshot": "https://reactnativestarter-hosting-mobilehub-132039435.s3.amazonaws.com/QB1.png",
-    "description": "QB₁ is a football team roster web app",
+    "description": "QB₁ is a single page React App allowing users to maintain their football team roster.",
     "technologiesUsed": "React, JavaScript, Bootstrap 4, Webpack, Firebase",
     "avaiable": true,
     "url": "https://sports-roster-d0597.firebaseapp.com/",
     "gitHubrepo": "https://github.com/rarceneaux/sports-roster",
-    "id": "project2"
-  },
-  "project3": {
-    "title": "PanAM ✈️",
-    "screenshot": "https://reactnativestarter-hosting-mobilehub-132039435.s3.amazonaws.com/PanAm.png",
-    "description": "Team Project- Airport Firm Centralized Operational System",
-    "technologiesUsed": "HTML, CSS, JavaScript, Jquery, Bootstrap 4, Webpack, Firebase",
-    "avaiable": true,
-    "url": "https://nutshell-panam.firebaseapp.com/",
-    "gitHubrepo": "https://github.com/nss-evening-cohort-10/nutshell-panam-airlines",
     "id": "project3"
   }
 }
