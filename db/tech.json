@@ -54,5 +54,25 @@
   "tech14": {
     "imgUrl": "https://firebasestorage.googleapis.com/v0/b/hustle-8e319.appspot.com/o/hiclipart.com.png?alt=media&token=b94089ca-d313-466e-b11d-b0c03c3db971",
     "url": "https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/"
+  },
+  "tech15": {
+    "imgUrl": "http://nashvillesoftwareschool.com/images/technologies/sqlserver.png",
+    "url": "https://www.microsoft.com/en-us/sql-server"
+  },
+  "tech16": {
+    "imgUrl": "https://thecodebuzz.com/wp-content/uploads/2020/02/Dapper-in-net-core-example-1024x352.jpg",
+    "url": "https://dotnet.microsoft.com/"
+  },
+  "tech17": {
+    "imgUrl": "http://nashvillesoftwareschool.com/images/technologies/visual.png",
+    "url": "https://code.visualstudio.com/"
   }
 }
+
+
+
+
+
+
+
+
