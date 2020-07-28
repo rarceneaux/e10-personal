@@ -1,10 +1,9 @@
 # Personal Website
-Updating site as of April 16, 2020
+raymondarceneaux.com
 ## Description
  
  
 ## Screenshot
 
 ## How to Run:
-COMING SOON
-  * raymondarceneaux.dev
+
