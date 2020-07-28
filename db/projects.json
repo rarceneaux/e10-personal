@@ -1,8 +1,8 @@
 {
   "project1": {
     "title": "PIGUE 🏈",
-    "screenshot": "https://reactnativestarter-hosting-mobilehub-132039435.s3.amazonaws.com/Personal-Pigue.png",
-    "description": "PIGUE is a single page React App created to manage and track offensive football plays,players,and formations.",
+    "screenshot": "https://reactnativestarter-hosting-mobilehub-132039435.s3.amazonaws.com/HOME.PNG",
+    "description": "PIGUE is a single page React App created to manage and track offensive football plays, players, and formations.",
     "technologiesUsed": "React,.NET Core, Dapper,C#, MS Sql Server, JavaScript, Webpack, AWS S3, Firebase",
     "avaiable": true,
     "url": "https://www.coachpigue.com",
