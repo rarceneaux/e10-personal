@@ -8,12 +8,8 @@ const bioString = () => {
   domString += '<p> I am a native of Nashville and father of 2 sons. Before software development, I spent a combined 22 years in real estate, banking, and state government. I have an MBA and BBA, both with a concentration in Finance from Middle Tennessee State University.</p>';
   domString += '<p> My journey into software development started with taking a simple picture of my youngest son. At the time, my goal for him at roughly 18 months was to teach him the alphabet. I created him a set of ABC flashcards with MS Publisher and went to FedEx Kinkos to have them printed and laminated. He enjoyed the cards and was on the road to learning his ABCs.</p>';
   domString += '<p> However, like most toddlers, He was curious about the object I carried everywhere with us that could play the YouTube videos of his favorite shows, my smartphone. I had an idea to cross my mind to get him even more excited about learning his ABCs. I would make a PowerPoint presentation to represent the cards we were using in his learning. I projected my laptop screen to our TV to display the ABC app and let him use a wireless mouse to navigate through the app. After a few sessions together, he no longer needed my assistance, and he was learning by playing. </p>';
-  domString += '<p> I plan to use the skill set of software development and coding for the benefit of the community and my family.</p>';
+  domString += '<p> I plan to use the skill set of software development professionally as a junior developer and personally, for the benefit of the community and my family.</p>';
   domString += '<br>';
-  domString += '<p>Please visit my projects page to view the following individual apps developed by me while in bootcamp at NSS:</p>';
-  domString += '<ul>PIGUE-  Back-End Capstone</ul>';
-  domString += '<ul>My-Dashbook-  Front-End Capstone</ul>';
-  domString += '<ul>QB1-  Simple React App</ul>';
   utils.printToDom('bioPage', domString);
 };
 
